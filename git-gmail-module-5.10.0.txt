@@ -1,0 +1,31 @@
+                          Upload Information Template for Hobbes.nmsu.edu
+                          ===============================================
+
+        Archive Filename: git-gmail-module-5.10.0.zip
+       Short Description: git gmail module for perl v5.10.0
+        Long Description: git gmail module for perl v5.10.0
+This is a module in order to use SSL enabled email such as gmail.
+
+Extract this file into your site_perl directory, where is /perl5/lib/site_perl
+normally.
+
+      Proposed directory
+           for placement: /pub/os2/dev/perl
+
+               Your name: KO Myung-Hun
+           Email address: komh@chollian.net
+    Program contact name: (same)
+   Program contact email: (same)
+             Program URL: (none) 
+
+      Would you like the
+   contact email address
+    included in listings? yes
+
+Operating System/Version: 
+ Additional requirements: perl v5.10.0, kLIBC v0.6.4, OpenSSL v0.9.8r OS2-KNIX
+
+                Replaces: (none)
+
+
+
